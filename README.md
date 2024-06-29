@@ -18,8 +18,8 @@ To set up the project locally, follow these steps:
 ### Features Implemented
 
 1. Pagination for products.
-2. Product Sorting
-3. Filters (Brand, Category, Price, Occasion, Discount)
+2. Product Sorting.
+3. Filters (Brand, Category, Price, Occasion, Discount).
 4. **URL Parameters**: Store all filter and sort options in the URL parameters to replicate the user's browsing state when sharing URLs.
 
 #### Product Operations (Create/Edit/Delete)
