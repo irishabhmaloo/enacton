@@ -24,6 +24,6 @@ To set up the project locally, follow these steps:
 
 #### Product Operations (Create/Edit/Delete)
 
-10. **Create Product**: Allow users to crete product.
-11. **Edit Product**: Allow users to modify specific product details.
-12. **Delete Product**: Provide the functionality to remove a particular product from the list.
+1. **Create Product**: Allow users to crete product.
+2. **Edit Product**: Allow users to modify specific product details.
+3. **Delete Product**: Provide the functionality to remove a particular product from the list.
